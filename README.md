@@ -2,6 +2,10 @@
 
 > 一个vuejs练手作。之后还会继续完善。后台的数据使用mockjs模拟的。主要学习到的是自动滚动指令，还有数据的管理
 
+## Screenshots
+
+![](https://github.com/luvsunlight/vue-chat/blob/master/screenshots/main.png)
+
 ## Build Setup
 
 ``` bash
